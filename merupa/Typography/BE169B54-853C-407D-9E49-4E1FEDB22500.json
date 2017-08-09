@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGV1hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs1OT1FRkdISU1RU1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18QImFybWFkaWxsbyAvIDM2IEgyIC8gTGlnaHQgLyBDZW50ZXLTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeACYALgBNXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0yAhCiIjJFVOU1JHQlxOU0NvbG9yU3BhY2VPECcwLjI5MDE5NjA3ODQgMC4yOTAxOTYwNzg0IDAuMjkwMTk2MDc4NAAQAYAI0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoigqWE5TT2JqZWN01iwtLgovMDEyMzQjM1tOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBACgAAjQEQAAAAAAACACtImJzY3XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNjgqXxAQTlNQYXJhZ3JhcGhTdHlsZdIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCj5BRKI/QIANgA6iQkOAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQgAAAAAAAF8QE1NvdXJjZVNhbnNQcm8tTGlnaHTSJidKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSkwqXE5TRGljdGlvbmFyedImJ05PXxAQTlNGb250RGVzY3JpcHRvcqJQKl8QEE5TRm9udERlc2NyaXB0b3LSJidMUqJMKtImJ1RVXxASTlNBdHRyaWJ1dGVkU3RyaW5nolYqXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0VlaVHJvb3SAAQAIABEAGgAjAC0AMgA3AE8AVQBcAGUAbAB5AHsAfQB/AKQAqwCzAL4AwgDEAMYAyADMAM4A0ADSANQA3ADvAREBGAEeASsBVQFXAVkBXgFpAXIBegF9AYYBkwGfAaoBvAHeAfAB8gH0Af0B/wIEAh4CIgI1AjoCVwJZAlsCYgJlAmcCaQJsAm4CcAJyAogCngKnAr0CwgLYAtwC6QLuAwEDBAMXAxwDHwMkAzkDPANRA2MDZgNrAAAAAAAAAgEAAAAAAAAAWwAAAAAAAAAAAAAAAAAAA20="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BE169B54-853C-407D-9E49-4E1FEDB22500",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 474,
+    "x": 307,
+    "y": -118
+  },
+  "glyphBounds": "{{2, 7}, {472, 35}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "armadillo / 36 H2 /",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C38162B0-BAA6-425B-AB12-7A2C861D2808"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

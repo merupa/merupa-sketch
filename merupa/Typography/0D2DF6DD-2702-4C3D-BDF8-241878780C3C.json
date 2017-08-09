@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT9DR09QUVJTV1tdVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxAoYXJtYWRpbGxvIC8gMTYgU3VidGl0bGUgLyBMaWdodCAvIENlbnRlctMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4yOTAxOTYwNzg0IDAuMjkwMTk2MDc4NCAwLjI5MDE5NjA3ODQAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1jY3OAo5Ojs8PT4kPVtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBACgAAjQDgAAAAAAACADNIsLUBBXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjQEIxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKREVGXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkhLTqJJSoAPgBCiTE2AEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QE1NvdXJjZVNhbnNQcm8tTGlnaHTSLC1UVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjVFYxXE5TRGljdGlvbmFyedIsLVhZXxAQTlNGb250RGVzY3JpcHRvcqJaMV8QEE5TRm9udERlc2NyaXB0b3LSLC1WXKJWMdIsLV5fXxASTlNBdHRyaWJ1dGVkU3RyaW5nomAxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WNkVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAKwAswC7AMYAygDMAM4A0ADUANYA2ADaANwA5AD3ARkBIgEoATUBSgF0AXYBeAF6AX8BhAGGAYgBjQGYAaEBrgGxAb4BxwHMAdQB1wHkAfAB+wINAi8CQQJDAkUCTgJQAlUCbwJzAoYCiwKoAqoCrAKzArYCuAK6Ar0CvwLBAsMC2QLvAvgDDgMTAykDLQM6Az8DUgNVA2gDbQNwA3UDigONA6IDtAO3A7wAAAAAAAACAQAAAAAAAABlAAAAAAAAAAAAAAAAAAADvg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "0D2DF6DD-2702-4C3D-BDF8-241878780C3C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 243,
+    "x": 423,
+    "y": -30
+  },
+  "glyphBounds": "{{0, 6}, {243, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "armadillo / 16 Subti",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "5C749128-F070-4F83-9B72-4B41729F2874"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

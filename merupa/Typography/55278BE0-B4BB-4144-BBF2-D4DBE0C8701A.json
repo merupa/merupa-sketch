@@ -1,0 +1,64 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGVldYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFQcIDxAcHR4fJSs0ODxERUZHSExQUlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBSAA18QIGFybWFkaWxsbyAvIDQwIEgxIC8gQm9sZCAvIFJpZ2h00xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmAC4ATV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAxOTYwNzg0IDAuMjkwMTk2MDc4NCAwLjI5MDE5NjA3ODQAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNYsLS4KLzAjMTIzIzJbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAACNASAAAAAAAAIAK0iYnNTZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM1NypfEBBOU1BhcmFncmFwaFN0eWxl0go5OjtfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKPUBDoj4/gA2ADqJBQoAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BEAAAAAAAAXxASU291cmNlU2Fuc1Byby1Cb2xk0iYnSUpfEBNOU011dGFibGVEaWN0aW9uYXJ5o0lLKlxOU0RpY3Rpb25hcnnSJidNTl8QEE5TRm9udERlc2NyaXB0b3KiTypfEBBOU0ZvbnREZXNjcmlwdG9y0iYnS1GiSyrSJidTVF8QEk5TQXR0cmlidXRlZFN0cmluZ6JVKl8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFYWVRyb290gAEACAARABoAIwAtADIANwBPAFUAXABlAGwAeQB7AH0AfwCiAKkAsQC8AMAAwgDEAMYAygDMAM4A0ADSANoA7QEPARYBHAEpAVMBVQFXAVwBZwFwAXgBewGEAZEBnQGoAboB3AHuAfAB+QH7AgACGgIeAjECNgJTAlUCVwJeAmECYwJlAmgCagJsAm4ChAKaAqMCuAK9AtMC1wLkAukC/AL/AxIDFwMaAx8DNAM3A0wDXgNhA2YAAAAAAAACAQAAAAAAAABaAAAAAAAAAAAAAAAAAAADaA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "55278BE0-B4BB-4144-BBF2-D4DBE0C8701A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 535,
+    "x": 933,
+    "y": 411
+  },
+  "glyphBounds": "{{1, 9}, {533, 38}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "armadillo / 40 H1 /",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "E4B142CC-8E51-4126-9D1C-F04E2A1D6EFE"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "philosophy",
+          "type": "title"
+        },
+        "title": "Philosophy"
+      }
+    }
+  }
+}
