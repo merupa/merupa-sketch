@@ -87,6 +87,62 @@
     {
       "class": "text",
       "id": "26DB9712-D8B4-42C1-AF4A-C47D9A7EE7CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57E12D76-59B3-4FA5-B6C7-E9BE3DDE4D07"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "230A1C9A-49A0-40EB-9310-B4BBB55FDEFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B6E9A7C-3B12-46C3-8CE5-BA85495769DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62723BBF-D706-498F-A70C-C5052B077AB6"
+    },
+    {
+      "class": "text",
+      "id": "E50A49C7-AC68-419A-8033-00D2AF0A3B06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6C38A64-F83C-4505-B50B-3F90B7C35A38"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE671D0E-B693-467B-8ED4-EC5CBB7255C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3AA49F3-F5FA-4E34-BC37-21B9EAED1D29"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AAEA6ECC-66A8-4791-B27B-FE4DF7257752"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9038FC29-8447-4732-AE0F-355584AA808E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71C90CA5-976B-43D5-A94E-AD68A466B73E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F0FDECE-F01A-41FA-87BC-9163832393AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83A04028-47BB-4F8F-ADE1-CF012ACDDC12"
+    },
+    {
+      "class": "text",
+      "id": "6EC5FBBF-5DCB-4780-9781-647B05BFC9D5"
     }
   ],
   "name": "Color",
