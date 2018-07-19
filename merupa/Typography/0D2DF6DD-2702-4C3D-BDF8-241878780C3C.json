@@ -1,10 +1,37 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNT9DR09QUVJTV1tdVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxAnZGFya2dyZXkgLyAxNiBTdWJ0aXRsZSAvIExpZ2h0IC8gQ2VudGVy0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAuADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdQgISIKIyQlJlVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjE5MjE1Njg2MjcgMC4yMDM5MjE1Njg2IDAuMjIzNTI5NDExOAAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHWNjc4Cjk6Ozw9PiQ9W05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EAKAACNAOAAAAAAAAIAM0iwtQEFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNAQjFfEBBOU1BhcmFncmFwaFN0eWxl0gpERUZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKSEtOoklKgA+AEKJMTYARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXxATU291cmNlU2Fuc1Byby1MaWdodNIsLVRVXxATTlNNdXRhYmxlRGljdGlvbmFyeaNUVjFcTlNEaWN0aW9uYXJ50iwtWFlfEBBOU0ZvbnREZXNjcmlwdG9yoloxXxAQTlNGb250RGVzY3JpcHRvctIsLVZcolYx0iwtXl9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiYDFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRY2RUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAqwCyALoAxQDJAMsAzQDPANMA1QDXANkA2wDjAPYBGAEhAScBNAFJAXMBdQF3AXkBfgGDAYUBhwGMAZcBoAGtAbABvQHGAcsB0wHWAeMB7wH6AgwCLgJAAkICRAJNAk8CVAJuAnIChQKKAqcCqQKrArICtQK3ArkCvAK+AsACwgLYAu4C9wMNAxIDKAMsAzkDPgNRA1QDZwNsA28DdAOJA4wDoQOzA7YDuwAAAAAAAAIBAAAAAAAAAGUAAAAAAAAAAAAAAAAAAAO9"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2235294118,
+            "green": 0.2039215686,
+            "red": 0.1921568627
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 39,
+        "location": 0
+      }
+    ],
+    "string": "darkgrey / 16 Subtitle / Light / Center"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0D2DF6DD-2702-4C3D-BDF8-241878780C3C",
@@ -23,11 +50,10 @@
     "constrainProportions": false,
     "height": 24,
     "width": 238,
-    "x": 404.5,
+    "x": 492,
     "y": -30
   },
   "glyphBounds": "{{0, 6}, {238, 16}}",
-  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
